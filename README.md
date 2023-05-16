@@ -1,7 +1,7 @@
 # stellar_structure_final_project
 Calculation of the Zero-Age Main Sequence Structure of the Sun
 
-The Jupyter notebook final_project.ipynb should run up until Part 11 (which uses MESA). Below are instructions on how to run the MESA component of this notebook. 
+The Jupyter notebook `final_project.ipynb` has the code for the stellar structure calculation. It should run up until Part 11 (which uses MESA). Below are instructions on how to run the MESA component of this notebook. 
 
 Step 1: Run `git clone https://github.com/myunus1/stellar_structure_final_project.git`
 
